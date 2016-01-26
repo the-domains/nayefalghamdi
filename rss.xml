@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NayefAlghamdi]]></title>
         <description><![CDATA[NayefAlghamdi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nayefalghamdi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:52:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 21:04:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nayefalghamdi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/255819d1-3877-4c23-b85e-28be5baf828d.jpg">]]></description>
-            <link>undefined6dd028ce-f740-415a-9f70-ec31b804352b/index.html</link>
+            <title><![CDATA[Iceland Trip]]></title>
+            <description><![CDATA[<article><h1>Iceland Trip</h1><p>On the way we stop for another panodrama</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e7f1b8a3ba488f7d9e4e22b92fcc2450713d26.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nayefalghamdi/6dd028ce-f740-415a-9f70-ec31b804352b/index.html</link>
             <guid isPermaLink="false">6dd028ce-f740-415a-9f70-ec31b804352b</guid>
-            <pubDate>Tue, 26 Jan 2016 20:52:10 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 21:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
