@@ -1,6 +1,6 @@
 name: NayefAlghamdi
 favicon: null
-layout_spectrum: 0.519561355933547
+layout_spectrum: 0.89689
 typography_spectrum: 0.8174150306731462
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7386436639353633
-  lightness: 0.25414557848125696
-  saturation: 0.01722045917995274
-  rhythmicContrast: 0.5841751105617732
+    - '#707171'
+    - '#383839'
+    - '#f5923b'
+    - '#2db3e5'
+    - '#ffffff'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
